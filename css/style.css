@@ -592,3 +592,21 @@ a, #posts-list li, #posts-list time, .projects-list .caption {
 	}
 
 }
+
+/* custom */
+
+.post-content a {
+	color: #999;
+}
+.post-content img.left {
+	float: left;
+	margin-right: 20px;
+}
+.post-content img.right {
+	float: right;
+	margin-left: 20px;
+}
+.post-content ol {
+	list-style: decimal;
+	margin-left: 25px;
+}
