@@ -43,10 +43,21 @@ cloudfront_distribution_config:
 
 # concurrency_level: 5
 
-# redirects:
-#   index.php: /
-#   about.php: about.html
-#   music-files/promo.mp4: http://www.youtube.com/watch?v=dQw4w9WgXcQ
+redirects:
+  crisis-management-done-right-a-thames-water-example: blog/crisis-management-done-right-a-thames-water-example
+  superb-individual-attention-to-customers-an-emirates-airlines-example: blog/superb-individual-attention-to-customers-an-emirates-airlines-example
+  goodbye-dubai: blog/goodbye-dubai
+  the-secret-to-building-large-scale-apps: blog/the-secret-to-building-large-scale-apps
+  peopleware-productive-projects-and-teams: blog/peopleware-productive-projects-and-teams
+  how-to-defend-your-elastic-load-balancer-powered-site-against-ddos-attacks: blog/how-to-defend-your-elastic-load-balancer-powered-site-against-ddos-attacks
+  why-building-your-own-backend-can-harm-your-business: blog/why-building-your-own-backend-can-harm-your-business
+  how-many-suitcases-do-you-need: blog/how-many-suitcases-do-you-need
+  does-it-make-sense-for-small-teams-to-automate: blog/does-it-make-sense-for-small-teams-to-automate
+  crisis-management-done-right: blog/crisis-management-done-right
+  superb-individual-attention-emirates: blog/superb-individual-attention-emirates
+  5-reasons-why-working-for-rocket-internet-is-great: blog/5-reasons-why-working-for-rocket-internet-is-great
+  what-programmers-should-avoid-in-their-resumes: blog/what-programmers-should-avoid-in-their-resumes
+  involuntary-switch-fall-through: blog/involuntary-switch-fall-through
 
 # routing_rules:
 #   - condition:

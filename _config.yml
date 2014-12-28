@@ -1,5 +1,5 @@
-permalink: '/blog/:year/:title/'
-base: http://demo.krownthemes.com/jackman/
+permalink: '/blog/:title/'
+base: http://www.halilkoklu.de
 name: An Ecommerce-Savvy Technologist
 author: Halil I. Köklü
 markdown: redcarpet-pygments
