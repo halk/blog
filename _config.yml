@@ -2,3 +2,5 @@ permalink: '/blog/:year/:title/'
 base: http://demo.krownthemes.com/jackman/
 name: An Ecommerce-Savvy Technologist
 author: Halil I. Köklü
+markdown: redcarpet-pygments
+highlighter: pygments
