@@ -39,6 +39,6 @@ switch ($change['type']) {
 
 As the `$data` variable was used the same way it did not trigger any exceptions or error log entries.
 
-It turned out that someone used a feature of the system which was never used before. Since the core software was provided by the holding company, the relevant code change (which was authored many months before we had this issue) did not go through our review process. We added `break` and notified the upstream authors.
+It turned out that someone used a feature of the system which was never used before. Since the core software was provided by the holding company, the relevant code change (which was authored many months before we had this issue) did not go through our review process. The author of the `urlrewrite` case omitted the `break` statement as it is the last case. The author of `paymentOptions` simply added a new case without realising that the previous case is missing the `break` statement. We added `break` and notified the upstream authors.
 
 In general I think a `switch` statement should not be used for this kind of operation.
