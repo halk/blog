@@ -1,4 +1,4 @@
-permalink: '/blog/:year/:title/'
+permalink: '/blog/:title/'
 base: http://demo.krownthemes.com/jackman/
 name: An Ecommerce-Savvy Technologist
 author: Halil I. Köklü
