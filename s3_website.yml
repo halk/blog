@@ -39,7 +39,7 @@ cloudfront_distribution_config:
     items:
       CNAME: www.halilkoklu.de
 
-# cloudfront_invalidate_root: true
+cloudfront_invalidate_root: true
 
 # concurrency_level: 5
 
