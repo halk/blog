@@ -610,3 +610,9 @@ a, #posts-list li, #posts-list time, .projects-list .caption {
 	list-style: decimal;
 	margin-left: 25px;
 }
+
+.inline-code {
+	font-size: 18px;
+	font-weight: bold;
+	color: #008080;
+}
