@@ -58,6 +58,34 @@ redirects:
   5-reasons-why-working-for-rocket-internet-is-great: blog/5-reasons-why-working-for-rocket-internet-is-great
   what-programmers-should-avoid-in-their-resumes: blog/what-programmers-should-avoid-in-their-resumes
   involuntary-switch-fall-through: blog/involuntary-switch-fall-through
+  crisis-management-done-right-a-thames-water-example/index.html: blog/crisis-management-done-right-a-thames-water-example
+  superb-individual-attention-to-customers-an-emirates-airlines-example/index.html: blog/superb-individual-attention-to-customers-an-emirates-airlines-example
+  goodbye-dubai/index.html: blog/goodbye-dubai
+  the-secret-to-building-large-scale-apps/index.html: blog/the-secret-to-building-large-scale-apps
+  peopleware-productive-projects-and-teams/index.html: blog/peopleware-productive-projects-and-teams
+  how-to-defend-your-elastic-load-balancer-powered-site-against-ddos-attacks/index.html: blog/how-to-defend-your-elastic-load-balancer-powered-site-against-ddos-attacks
+  why-building-your-own-backend-can-harm-your-business/index.html: blog/why-building-your-own-backend-can-harm-your-business
+  how-many-suitcases-do-you-need/index.html: blog/how-many-suitcases-do-you-need
+  does-it-make-sense-for-small-teams-to-automate/index.html: blog/does-it-make-sense-for-small-teams-to-automate
+  crisis-management-done-right/index.html: blog/crisis-management-done-right
+  superb-individual-attention-emirates/index.html: blog/superb-individual-attention-emirates
+  5-reasons-why-working-for-rocket-internet-is-great/index.html: blog/5-reasons-why-working-for-rocket-internet-is-great
+  what-programmers-should-avoid-in-their-resumes/index.html: blog/what-programmers-should-avoid-in-their-resumes
+  involuntary-switch-fall-through/index.html: blog/involuntary-switch-fall-through
+  crisis-management-done-right-a-thames-water-example/: blog/crisis-management-done-right-a-thames-water-example
+  superb-individual-attention-to-customers-an-emirates-airlines-example/: blog/superb-individual-attention-to-customers-an-emirates-airlines-example
+  goodbye-dubai/: blog/goodbye-dubai
+  the-secret-to-building-large-scale-apps/: blog/the-secret-to-building-large-scale-apps
+  peopleware-productive-projects-and-teams/: blog/peopleware-productive-projects-and-teams
+  how-to-defend-your-elastic-load-balancer-powered-site-against-ddos-attacks/: blog/how-to-defend-your-elastic-load-balancer-powered-site-against-ddos-attacks
+  why-building-your-own-backend-can-harm-your-business/: blog/why-building-your-own-backend-can-harm-your-business
+  how-many-suitcases-do-you-need/: blog/how-many-suitcases-do-you-need
+  does-it-make-sense-for-small-teams-to-automate/: blog/does-it-make-sense-for-small-teams-to-automate
+  crisis-management-done-right/: blog/crisis-management-done-right
+  superb-individual-attention-emirates/: blog/superb-individual-attention-emirates
+  5-reasons-why-working-for-rocket-internet-is-great/: blog/5-reasons-why-working-for-rocket-internet-is-great
+  what-programmers-should-avoid-in-their-resumes/: blog/what-programmers-should-avoid-in-their-resumes
+  involuntary-switch-fall-through/: blog/involuntary-switch-fall-through
 
 # routing_rules:
 #   - condition:
