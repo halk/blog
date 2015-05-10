@@ -1,4 +1,4 @@
-permalink: '/blog/:title/'
+permalink: '/blog/:title.html'
 base: http://www.halilkoklu.de
 name: An Ecommerce-Savvy Technologist
 author: Halil I. Köklü
