@@ -1,3 +1,5 @@
+require 'slugify'
+
 module Jekyll
   class TagIndex < Page
     def initialize(site, base, dir, tag)
@@ -10,7 +12,7 @@ module Jekyll
       self.data['tag'] = tag
       tag_title_prefix = site.config['tag_title_prefix'] || 'Posts Tagged &ldquo;'
       tag_title_suffix = site.config['tag_title_suffix'] || '&rdquo;'
-      self.data['title'] = "#{tag_title_prefix}#{tag}#{tag_title_suffix}"
+      self.data['title'] = "#{tag_title_prefix}#{tag.split.map(&:capitalize)*' '}#{tag_title_suffix}"
     end
   end
   class TagGenerator < Generator
@@ -19,7 +21,7 @@ module Jekyll
       if site.layouts.key? 'tag'
         dir = site.config['tag_dir'] || 'tag'
         site.tags.keys.each do |tag|
-          write_tag_index(site, File.join(dir, tag), tag)
+          write_tag_index(site, File.join(dir, tag.slugify), tag)
         end
       end
     end

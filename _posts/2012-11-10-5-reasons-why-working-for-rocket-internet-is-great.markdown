@@ -3,7 +3,8 @@ layout: post
 title: "5 Reasons Why Working for Rocket Internet is Great"
 date: 2012-11-10 13:55
 comments: true
-categories: career
+tags:
+    - career
 ---
 <img src="/img/post/rocket_internet.jpg" width="200" height="40" class="right" style="height: 40px !important" />
 It has been 16 months since I started working for [Rocket Internet](http://www.rocket-internet.de) - first in Berlin, then in Istanbul, and now in Dubai. I can admit that joining this company was one of the key decisions I've made so far in my life. Albeit not the easiest one since I was 4 days away to move to London when Rocket approached me. The next day I had the job. I remember it was an eventful and adventurous week for me, a story I still catch myself excitedly telling.

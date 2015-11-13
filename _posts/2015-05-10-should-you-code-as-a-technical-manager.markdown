@@ -3,6 +3,8 @@ layout: post
 title: "Should you code as a Technical Manager?"
 date: 2015-05-10 23:05
 comments: true
+tags:
+    - leadership
 ---
 Although the short answer is **yes**, there is more to consider. Since I have assumed management responsibilities in my career I remained hands-on and involved as a developer. Even though I had predominantly positive experiences, being a coding manager comes with problems. Reflecting on these four years the following advice comes to my mind:
 

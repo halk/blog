@@ -3,7 +3,8 @@ layout: post
 title: "Peopleware: Productive Projects and Teams"
 date: 2013-02-17 00:00
 comments: true
-categories: book
+tags:
+    - leadership
 ---
 <img src="http://bks3.books.google.ae/books?id=eA9PAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;imgtk=AFLRE72hRDKPsJKsMCvRSOzV2OonPVROKHTjcq77aouT1VlfacRtSIG9Z1V2ISMcTa-6ol35FQGygyF07OyvM5FhpS-AQKXHWcihin_jRcJyQhj8voGfQMeKgV4EK3Qs3kCGqva_AvUf" width="128" height="201" class="right" />
 Being in the technology sector where a book written in 2012 may be already considered outdated, I was very surprised when I read "[Peopleware: Product Projects and Teams](http://www.amazon.com/gp/product/0932633439/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0932633439&linkCode=as2&tag=halkok-20)" by [Tom DeMarco](http://en.wikipedia.org/wiki/Tom_DeMarco) and [Timothy Lister](http://www.amazon.com/Timothy-Lister/e/B000APBT96). This book was first published in 1987. Well, to be correct I read the second edition from 1999. Hell, it's still too old. But it does not matter when it is written, what only matters is what you read and capture from it for yourself. This masterpiece is as relevant today as when it was written and should be mandatory for any IT manager.
@@ -16,7 +17,7 @@ Nonetheless I'd still like to outline two topics: Office Environment and Cost of
 
 ## Office Environment
 
-The authors raise this topic based on the uniform cubicle office environments back in the 80s, where a huge number of employees are put each into a small cube with plastic walls and no windows. It was the first time I noticed that it's actually a quite old book. Being young, I only know these kind of offices from US movies. However after some time I realized that this topic is in fact still recent. 
+The authors raise this topic based on the uniform cubicle office environments back in the 80s, where a huge number of employees are put each into a small cube with plastic walls and no windows. It was the first time I noticed that it's actually a quite old book. Being young, I only know these kind of offices from US movies. However after some time I realized that this topic is in fact still recent.
 
 The cubicles have evolved and have a new name: open office. It is actually like cubicles just without the walls with even less privacy. Open offices are praised to be very productive and cool. It is in and managers are very proud of it. You'll find it as a selling point in job descriptions and career pages. "Sit together with the CEO and Vice Presidents!", they said. They didn't say that the CEO always has Skype calls and other matters  which require him to sit in the meeting room the whole day. It is not about coolness and startup feeling, it's about cost efficiency. Wait, read Peopleware and you'll see it's not cost efficient at all.
 

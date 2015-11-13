@@ -8,8 +8,13 @@ title: My Blog
     <div class="wrapper">
 
         <header class="section-header">
-            <h4 class="section-title">Welcome to my blog</h4>
-            <span class="section-subtitle">Random thoughts about product development &amp; customer experience</span>
+            <h4 class="section-title">My Thoughts On</h4>
+            <ul class="tags-list clearfix">
+            {% assign sorted_tags = (site.tags | sort:0) %}
+            {% for tag in sorted_tags %}
+                <li><a href="/blog/tag/{{ tag | first | slugify }}" title="{{ tag | first }}">{{ tag | first }}</a></li>
+            {% endfor %}
+            </ul>
         </header>
 
         <ul id="posts-list">
@@ -19,8 +24,9 @@ title: My Blog
             <li class="clearfix">
                 <time datetime="{{ post.date }}" pubdate>{{ post.date | date_to_string }}</time>
                 <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+                <span class="post-tags">{{ post.tags | join:", " }}</span>
             </li>
-            
+
             {% endfor %}
 
         </ul>

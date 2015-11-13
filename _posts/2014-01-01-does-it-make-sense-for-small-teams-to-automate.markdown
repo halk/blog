@@ -3,7 +3,8 @@ layout: post
 title: "Does It Make Sense For Smaller Teams To Automate?"
 date: 2014-01-01 23:50
 comments: true
-categories: architecture
+tags:
+    - leadership
 ---
 <img src="/img/post/capistrano.png" width="383" height="95" class="right" />
 Increasing the productivity of development teams has always been a crucial challenge for every technical manager. Agile methodologies such as [Scrum](http://en.wikipedia.org/wiki/Scrum_%28software_development%29) and [Kanban](http://en.wikipedia.org/wiki/Kanban_%28development%29) are rightfully a popular approach to achieve higher productivity and efficiency. However today I would like to reflect on improving internal development processes and their automation. When it comes to improve internal processes, many times I came across concerns raised by both managers and peers. Some claimed that other tasks especially feature requests were more important and urgent. Whereas others claimed that it did not make any sense for their small team. For me it appears that exactly both are reasons to go for automation.

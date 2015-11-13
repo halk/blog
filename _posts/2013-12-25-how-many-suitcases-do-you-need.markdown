@@ -3,7 +3,8 @@ layout: post
 title: "How Many Suitcases Do You Need To Emigrate?"
 date: 2013-12-25 14:30
 comments: true
-categories: travel
+tags:
+    - personal
 ---
 <img src="/img/post/suitcases.jpg" width="306" height="306" class="right" />
 This morning on Christmas day, when many others are unpacking their gifts and new possessions, I read an [article](http://www.dailymail.co.uk/femail/article-2503328/Craziest-OkCupid-date-Couple-21-day-European-trip.html) about a couple travelling through Europe for three weeks without any luggage but one set of clothing. This made me think about some of the experiences we made in the last three years in which we moved four times across countries - Germany, Turkey, the United Arab Emirates, the United States and the United Kingdom. We usually stayed at one location for a few months only, the longest being a year, but every time we thought we are going to stay there for a medium or long time. So we ended up buying stuff which we needed to get rid of again.

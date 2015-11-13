@@ -3,7 +3,8 @@ layout: post
 title: "Goodbye, Dubai"
 date: 2013-02-22 20:47
 comments: true
-categories: personal
+tags:
+    - personal
 ---
 <img src="/img/post/leaving_dubai.gif" width="160" height="110" class="right" />
 It's time to say goodbye to [Dubai](http://en.wikipedia.org/wiki/Dubai) and the [United Arab Emirates](http://en.wikipedia.org/wiki/United_Arab_Emirates). On 28th Feb, my wife and me are going on a new adventure, traveling to few places and eventually joining an interesting new startup. Exactly one year ago as I am writing this post, I was sitting in the airplane from Istanbul to Dubai, with a new mission but no real idea what was expecting me. Looking back it was my best life experience so far.

@@ -3,7 +3,8 @@ layout: post
 title: "Why Building Your Own Backend Can Harm Your Business"
 date: 2013-02-15 19:50
 comments: true
-categories: architecture
+tags:
+    - architecture
 ---
 <img src="/img/post/backend_construction.jpg" width="300" height="300" alt="&copy; http://atom.smasher.org/construction" title="&copy; http://atom.smasher.org/construction" class="right" />
 I confess, the headline sounds tremendous as essentially backends are exactly designed for boosting and smoothing your business. Precisely because it is such important, I believe that  it has to be well thought from the outset. I cannot provide an ultimate guideline though I will share some thoughts which are mainly for e-commerce businesses but may also apply for others. I want to make clear that these thoughts are in no way related to my current employer but more what I recall when I think back of the last years.

@@ -3,6 +3,8 @@ layout: post
 title: "Involuntary Switch Fall-Through (Bug Log #1)"
 date: 2014-12-27 23:05
 comments: true
+tags:
+    - coding
 ---
 *There are always bugs in software. Whereas most have only minimal impact at all, [some](http://en.wikipedia.org/wiki/Mars_Climate_Orbiter#Cause_of_failure) are catastrophic. Nevertheless there are a few bugs and failures in a developer’s lifetime which are humorous and memorable. This post is part of a series of failures I personally encountered — not necessarily authored — in my career*.
 

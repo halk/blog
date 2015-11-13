@@ -3,6 +3,8 @@ layout: post
 title: "Crisis Management Done Right - A Thames Water Example"
 date: 2014-01-12 11:05
 comments: true
+tags:
+    - service
 ---
 <img src="/img/post/thameswater_notice.jpg" width="300" height="207" class="right" />
 Customer satisfaction is a key metric in any customer-facing business. Some businesses - such as [Amazon](http://www.amazon.co.uk/) - have taken it further and made it their number one [leadership principle](http://www.amazon.co.uk/Values-Careers/b?ie=UTF8&node=203039011). As a side note, I can proudly say that my most recent engagement [Loveknitting](http://www.loveknitting.com/) is one of them. To ensure customer satisfaction businesses work hard to deliver their promise in advance in the hope that no complications or complaints arise.

@@ -8,8 +8,7 @@ title: My Blog
     <div class="wrapper">
 
         <header class="section-header">
-            <h4 class="section-title">Welcome to my blog</h4>
-            <span class="section-subtitle">Posts tagged with {{ page.tag }}</span>
+            <h4 class="section-title">My thoughts on {{ page.tag }}</h4>
         </header>
 
         <ul id="posts-list">
@@ -22,7 +21,7 @@ title: My Blog
                     <time datetime="{{ post.date }}" pubdate>{{ post.date | date_to_string }}</time>
                     <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
                 </li>
-            
+
                 {% endif %}
             {% endfor %}
         {% endfor %}

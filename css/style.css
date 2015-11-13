@@ -173,7 +173,7 @@ q {
 .post-content h3 {
     font-size: 16px;
     line-height: 22px;
-    text-transform: uppercase; 
+    text-transform: uppercase;
 }
 
 h4 {
@@ -389,6 +389,7 @@ h4 + p {
 	float: left;
 	padding: 16px 0 13px;
 	border: none;
+	z-index: 100;
 }
 #posts-list h3 {
 	font-weight: 400;
@@ -396,6 +397,36 @@ h4 + p {
 
 .post-nav {
 	margin-top: 70px;
+}
+
+.post-tags {
+	font-size: 16px;
+	float: right;
+	color: #e1ccb0;
+	padding: 16px 0;
+}
+
+/* ---------------------
+-----   Tags List   -----
+-------------------------*/
+
+.tags-list {
+	margin-top: 0;
+}
+.tags-list li {
+	list-style: none;
+}
+.tags-list a {
+	float: left;
+	display: block;
+	padding: 3px 10px;
+	color: #e1ccb0;
+	margin: 7px 7px 0 0;
+	border: 2px solid #e1ccb0;
+}
+.tags-list a:hover {
+	background: #e1ccb0;
+	color: #222;
 }
 
 /* ---------------------
@@ -589,6 +620,9 @@ a, #posts-list li, #posts-list time, .projects-list .caption {
 	}
 	.projects-list li {
 		margin: 20px 0 0 0 !important;
+	}
+	#posts-list .post-tags {
+		display: none;
 	}
 
 }

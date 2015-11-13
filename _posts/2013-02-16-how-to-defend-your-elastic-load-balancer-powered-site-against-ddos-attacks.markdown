@@ -3,7 +3,8 @@ layout: post
 title: "How to Defend Your ELB Powered Site Against DDoS Attacks"
 date: 2013-02-16 15:32
 comments: true
-categories: infrastructure
+tags:
+    - devops
 ---
 <img src="/img/post/ddos_attack.gif" width="250" height="188" class="right" />
 **This article is written for users of [Amazon Web Services (AWS)](http://aws.amazon.com/) running their web services behind an [Elastic Load Balancer (ELB)](http://aws.amazon.com/elasticloadbalancing/).** Although not much different to usual DDoS mitigation, there are some small quirks I learned the hard way.

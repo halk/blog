@@ -4,3 +4,6 @@ name: An Ecommerce-Savvy Technologist
 author: Halil I. Köklü
 markdown: redcarpet-pygments
 highlighter: pygments
+tag_dir: blog/tag
+tag_title_prefix: ''
+tag_title_suffix: ' Thoughts'

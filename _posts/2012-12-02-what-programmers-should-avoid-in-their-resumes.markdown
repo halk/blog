@@ -3,7 +3,8 @@ layout: post
 title: "What programmers should avoid in their resumes"
 date: 2012-12-02 22:22
 comments: true
-categories: lifehacker
+tags:
+    - career
 ---
 <img src="/img/post/programmer_meme.jpg" width="380" height="290" class="right" />
 In February 2012 I was put in charge of building a new development team for Rocket Internet in Dubai. Although I have been participating in the hiring process before, it was my first time to manage from A to Z. I made some thoughts in the beginning and worked out a process I sticked to. I am going to write about this experience addressing both recruiters and applicants soon. Today I am sharing my objections on the resumes I looked through.
