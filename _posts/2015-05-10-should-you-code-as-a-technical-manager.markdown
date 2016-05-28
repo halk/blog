@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Should you code as a Technical Manager?"
+title: "Should You Code as a Technical Manager?"
 date: 2015-05-10 23:05
 comments: true
 tags:

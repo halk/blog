@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What programmers should avoid in their resumes"
+title: "What Programmers Should Avoid in Their Resumes"
 date: 2012-12-02 22:22
 comments: true
 tags:
