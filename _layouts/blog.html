@@ -10,7 +10,7 @@ title: My Blog
         <header class="section-header">
             <h4 class="section-title">My Thoughts On</h4>
             <ul class="tags-list clearfix">
-            {% assign sorted_tags = (site.tags | sort:0) %}
+            {% assign sorted_tags = site.tags | sort %}
             {% for tag in sorted_tags %}
                 <li><a href="/blog/tag/{{ tag | first | slugify }}" title="{{ tag | first }}">{{ tag | first }}</a></li>
             {% endfor %}
