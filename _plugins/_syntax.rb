@@ -57,7 +57,7 @@ module Jekyll
         def initialize(config)
           require 'redcarpet'
           require 'pygments'
-          
+
           @config = config
           @redcarpet_extensions = {}
           @config['redcarpet']['extensions'].each { |e| @redcarpet_extensions[e.to_sym] = true }
@@ -71,12 +71,12 @@ module Jekyll
 
             def codespan(code)
               "<code class=\"inline-code\">#{code}</code>" # Inline code custom class
-            end 
+            end
           end
         rescue LoadError
           STDERR.puts 'You are missing a library required for Markdown. Please run:'
           STDERR.puts '  $ [sudo] gem install redcarpet'
-          raise FatalException.new("Missing dependency: redcarpet")
+          raise Errors::FatalException.new("Missing dependency: redcarpet")
         end
 
         def convert(content)
